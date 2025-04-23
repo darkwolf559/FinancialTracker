@@ -1,0 +1,38 @@
+[
+    {
+        "Type": "expense",
+        "Category": "Rent",
+        "Amount": 15000.0,
+        "Date": "2024-03-31"
+    },
+    {
+        "Type": "income",
+        "Category": "Trading",
+        "Amount": 11500.0,
+        "Date": "2024-04-01"
+    },
+    {
+        "Type": "income",
+        "Category": "Salary",
+        "Amount": 30000.0,
+        "Date": "2024-04-05"
+    },
+    {
+        "Type": "income",
+        "Category": "Business",
+        "Amount": 10000.0,
+        "Date": "2024-04-07"
+    },
+    {
+        "Type": "expense",
+        "Category": "Loan",
+        "Amount": 7500.0,
+        "Date": "2024-04-10"
+    },
+    {
+        "Type": "expense",
+        "Category": "Bills",
+        "Amount": 3000.0,
+        "Date": "2024-04-15"
+    }
+]
